@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(0, 0, 0);
+    background-image: url(https://wallpapers.com/images/hd/spotify-background-6dqfrop4arcronbn.jpg);
+    background-size: cover
+}
+
+#a1{
+   margin-left: 650px;
+   margin-top:50px;
+}
+#a2{
+    color: rgb(255, 0, 0);
+    background-color: rgb(251, 255, 0);
+}
+
+#a{
+    
+    border: 20px bold red;
+    margin-top: 100px;
+}
+
+#h:hover{
+    transform: scale(1.2);
+    
+        box-shadow: 0px 0px 50px rgba(245, 249, 0, 0.7);
+        border-radius: 10px; 
+      
+      
+
+    
+}
+
+
+#h1:hover{
+    transform: scale(1.2);
+    box-shadow: 0px 0px 50px rgba(245, 249, 0, 0.7);
+    border-radius: 10px; 
+
+   
+    
+}
+    #h,#h1,#h2,#h3,#h4,#h5{
+        height: 200px;
+        width: 200px;
+        margin: 32px;
+        border:2px;
+        border-style: solid;
+        border-color: rgb(106, 255, 0);
+        border-radius: 20px;
+        margin-left: 10px;
+        margin-top: 10px;
+        transition: all;
+        transition-duration: 0.3s;
+        transition-timing-function: ease-in;
+    
+    }
+    #h2:hover{
+        transform: scale(1.2);
+        box-shadow: 0px 0px 50px rgba(245, 249, 0, 0.7);
+        border-radius: 10px; 
+    }
+    #h3:hover{
+        transform: scale(1.2);
+        box-shadow: 0px 0px 50px rgba(245, 249, 0, 0.7);
+        border-radius: 10px; 
+    }
+    #h4:hover{
+        transform: scale(1.2);
+        box-shadow: 0px 0px 50px rgba(245, 249, 0, 0.7);
+        border-radius: 10px; 
+    }
+    #h5:hover{
+        transform: scale(1.2);
+        box-shadow: 0px 0px 50px rgba(245, 249, 0, 0.7);
+        border-radius: 10px; 
+
+    }
+  
